@@ -1,5 +1,5 @@
 
-### UC Davis ECS 36B 
+### Object Oriented Course Assignments
 
 Disclaimer: Please do **not** plagarize this code...
 

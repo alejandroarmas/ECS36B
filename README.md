@@ -1,6 +1,8 @@
 
 ### UC Davis ECS 36B 
 
+Disclaimer: Please do **not** plagarize this code...
+
 These programming examples illustrate the following concepts:
 
 
